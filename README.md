@@ -8,6 +8,6 @@
 -  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 
-<img src= ""/>
+<img src= "https://github.com/leonardosantos10/Projeto-Pagina-diaristas/blob/main/img/img-desktop-diaristas.png?raw=true"/>
 
-<img src= ""/>
+
