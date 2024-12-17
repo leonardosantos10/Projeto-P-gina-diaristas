@@ -9,4 +9,8 @@
 
 <img src= "https://github.com/leonardosantos10/Projeto-Pagina-diaristas/blob/main/img/img-desktop-diaristas.png?raw=true"/>
 
+<img src= "https://github.com/leonardosantos10/Projeto-Pagina-diaristas/blob/main/img/img-desktop-2.png?raw=true"/>
+
+
+
 
